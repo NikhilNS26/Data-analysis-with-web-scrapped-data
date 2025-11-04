@@ -26,12 +26,14 @@ The goal was to:
 
 3. **EDA (Exploratory Data Analysis)**  
    - Distribution of phone prices and brands.  
-   - Feature relationships (camera, RAM, storage, etc.).  
+   - Feature relationships.  
    - Correlation heatmaps and outlier detection.  
 
 4. **Feature Engineering**  
-   - Created derived features such as price-per-spec metrics.  
-   - Encoded categorical fields (brand, OS).  
+   - Created derived features such as price-per-spec metrics (feature construction).
+   -  Also did the feature transformation feature extraction to get the good quality datset
+   
+   - Encoded categorical fields (feature encoding).  
    - Scaled numerical attributes.  
 
 5. **Modelling**  
